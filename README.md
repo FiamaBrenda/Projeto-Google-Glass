@@ -1,4 +1,4 @@
-# Projeto-Google-Glass
+# Projeto Google Glass
  curso em vídeo, professor Guanabara
 
 <!DOCTYPE html> 
@@ -17,15 +17,15 @@
 	<h2>A revolução do Google está chegando</h2>
 	</hgroup>
 	
-		<img id="icone" src="_imagens\glass-oculos-preto-peq.png">
+		<img id="icone" src="imagens\glass-oculos-preto-peq.png">
 		<nav id="menu">
 			<h1>Menu Principal</h1>
 			<ul>
-				<li onmousemove="mudaFoto('_imagens/home.png')" onmouseout="mudaFoto('_imagens/glass-oculos-preto-peq.png')"><a href="index.html">Home</a></li>
-				<li onmousemove="mudaFoto('_imagens/especificacoes.png')" onmouseout="mudaFoto('_imagens/glass-oculos-preto-peq.png')"><a href="specs.html">Especificações</a></li>
-				<li onmousemove="mudaFoto('_imagens/fotos.png')" onmouseout=	"mudaFoto('_imagens/glass-oculos-preto-peq.png')"><a href="fotos.html">Fotos</a></li>
-				<li onmousemove="mudaFoto('_imagens/multimidia.png')" onmouseout="mudaFoto('_imagens/glass-oculos-preto-peq.png')"><a href="multimidia.html">Multimídia</a></li>
-				<li onmousemove="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/glass-oculos-preto-peq.png')"><a href="fale-conosco.html">Fale conosco</a></li>
+				<li onmousemove="mudaFoto('imagens/home.png')" onmouseout="mudaFoto('imagens/glass-oculos-preto-peq.png')"><a href="index.html">Home</a></li>
+				<li onmousemove="mudaFoto('imagens/especificacoes.png')" onmouseout="mudaFoto('imagens/glass-oculos-preto-peq.png')"><a href="specs.html">Especificações</a></li>
+				<li onmousemove="mudaFoto('imagens/fotos.png')" onmouseout=	"mudaFoto('imagens/glass-oculos-preto-peq.png')"><a href="fotos.html">Fotos</a></li>
+				<li onmousemove="mudaFoto('imagens/multimidia.png')" onmouseout="mudaFoto('imagens/glass-oculos-preto-peq.png')"><a href="multimidia.html">Multimídia</a></li>
+				<li onmousemove="mudaFoto('imagens/contato.png')" onmouseout="mudaFoto('imagens/glass-oculos-preto-peq.png')"><a href="fale-conosco.html">Fale conosco</a></li>
 			</ul>
 		</nav>
 	</header>
@@ -45,7 +45,7 @@
 <p>O <b>Google Glass</b> é um acessório em forma de óculos que possibilita a interação dos usuários com diversos conteúdos em realidade aumentada. Também chamado de <a href="" targer="_blank">Project Glass</a>, o eletrônico é capaz de tirar fotos a partir de comandos de voz, enviar mensagens instantâneas e realizar vídeoconferências. Seu lançamento está previsto para 2014, e seu preço deve ser de US$ 1,5 mil. Atualmente o <em>Google Glass</em> encontra-se em fase de testes e já possui um vídeo totalmente gravado com o dispositivo. Além disso, a companhia de buscas registrou novas patentes anti-furto e de desbloqueio de tela para o acessório.</p>
 
 <figure class="foto-legenda">
-	<img src="_imagens\glass-quadro-homem-mulher.jpg"/>
+	<img src="imagens\glass-quadro-homem-mulher.jpg"/>
 	<figcaption>
 	<h3>Google Glass</h3>
 	<p>Uma nova maneira de ver o mundo.</p>
@@ -75,8 +75,8 @@
 
 
 	<div id="outro">
-		<video id="filme" controls="controls" poster="_imagens/video-mini01.jpg">
-			<source src="_media/one-day.mp4" type="video/mp4"/>
+		<video id="filme" controls="controls" poster="imagens/video-mini01.jpg">
+			<source src="media/one-day.mp4" type="video/mp4"/>
 			Desculpe, mas não foi possível carregar o vídeo.
 		</video>
 
@@ -89,8 +89,8 @@
 
 
 <div id="outro">
-	<video width="350" id="filme" controls="controls" poster="_imagens/video-mini02.jpg">
-		<source src="_media/how-it-feels.mp4" type="video/mp4"/>
+	<video width="350" id="filme" controls="controls" poster="imagens/video-mini02.jpg">
+		<source src="media/how-it-feels.mp4" type="video/mp4"/>
 		Desculpe, mas não foi possível carregar o vídeo.
 	</video>
 
@@ -108,4 +108,3 @@
 </div>
 </body>
 </html>
-
