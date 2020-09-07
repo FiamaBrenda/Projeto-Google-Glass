@@ -2,6 +2,7 @@
  curso em vídeo, professor Guanabara
 
 <!DOCTYPE html> 
+
 <html lang="pt-br">
 <head>
 	<meta charset="UFT-8"/>
