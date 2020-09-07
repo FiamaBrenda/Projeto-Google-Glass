@@ -1,14 +1,14 @@
 # Projeto-Google-Glass
  curso em vídeo, professor Guanabara
 
- <!DOCTYPE html> 
+<!DOCTYPE html> 
 <html lang="pt-br">
 <head>
 	<meta charset="UFT-8"/>
 	<title>Tudo sobre Google Glass </title>
 	<link rel="stylesheet" href="_css\estilo.css"/>
 </head> 
-<script src="_javascript/funcoes.js"></script>
+< script   language = " javascript " src = " javascript / funcoes.js " ></script>
 <body>
 <div id="interface">
 	<header id="cabecalho">
