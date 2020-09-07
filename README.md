@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UFT-8"/>
 	<title>Tudo sobre Google Glass </title>
-	<link rel="stylesheet" href="_css\estilo.css"/>
+	<link rel="stylesheet" href="css\estilo.css"/>
 </head> 
 <script src="javascript/funcoes.js"></script>
 <body>
